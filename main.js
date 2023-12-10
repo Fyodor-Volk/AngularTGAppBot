@@ -1,7 +1,7 @@
 import {Telegraf, Markup} from 'telegraf' //Импортируем телеграф и маркап для работы с клавиатурой 
 
 //Токен телеграм бота
-const token = '6507426628:AAFer6lHF5NGKf7gQy7UKGnDVFMUWKjST04'
+const token = ''
 
 const webAppUrl = 'https://angulartgapp-44306.web.app'
 
